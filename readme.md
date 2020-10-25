@@ -2,12 +2,13 @@
 
 # Feature #
 
+```shell
 Browse movie by Actor's name.
 Browse movie by Genre.
 Browse movie by Director. 
 View list of movies 1 by 1. 
 Make comments on movie. (must login)
-
+```
 
 ## Description
 
